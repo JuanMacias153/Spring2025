@@ -1,24 +1,53 @@
-# Changelog
+# Spring 2025 Version Control with Git and GitHub 👍
+
+Hi, this repository is part of my Internship Ready Software Development course for the Spring of 2025. The project focuses on mastering the version control structure, being able to perform common tasks in this platform, be able to collaborate with others through remote repositories, and be able to command-Line Interface / Integrations with various IDEs
 
 
-## Spring2025 [1.4.0] - 2025-02-07
-- Added the CHANGELOG branch to repository 
+# Common Features
 
-## Spring2025 [1.3.1] - 2025-02-07
-- Included the dependencies section as a link in README
-- Added the git command to automatically install dependencies
+- Proficiency in Git commands and workflows.
+- Understanding collaborative development using GitHub with the correct permissions. 
+- Effective structuring and format within projects. 
+- Managing commits and labelling them properly. 
 
-## Spring2025 [1.3.0] - 2025-02-07
-- Added a dependencies file for future python implementations (optional for now)
 
-## Spring2025 [1.2.1] - 2025-02-07
-- Included the path to the LICENSE file in README.md
+# How to Use 
 
-## Spring2025 [1.2.0] - 2025-02-07
-- Added a LICENSE file to show the MIT rights
+1. Clone the repository
+   
+```
+git clone https://github.com/your-username/version-control-project.git
+cd version-control-project
+```
 
-## Spring2025 [1.1.0] - 2025-02-07
-- Updated README to include the basic structure
+2. Create a new feature branch
 
-## Spring2025 [1.0.0] - 2025-01-10
-- Initial version of the project.
+```
+git checkout -b feature-branch
+```
+
+3. Clone the repository
+   
+```
+git add .
+git commit -m "Added new feature"
+git push origin feature-branch
+```
+
+4. Submit a Pull Request
+
+# Contributing
+
+If you would like to contribute to this project, please open an issue with the project or submit a request through the repository that follows the guidelines. Furthermore, make sure to install the dependencies that are required in order to work with any python programming. 
+
+To install these dependencies, run: 
+
+```
+pip install -r requirements.txt
+```
+which will use the dependencies from the [file in this repository](https://github.com/JuanMacias153/Spring2025/blob/main/requirements).
+
+
+# License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/JuanMacias153/Spring2025/blob/main/LICENSE.txt) file for details.
+
