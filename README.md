@@ -38,7 +38,15 @@ git push origin feature-branch
 
 # Contributing
 
-If you would like to contribute to this project, please open an issue with the project or submit a request through the repository that follows the guidelines.
+If you would like to contribute to this project, please open an issue with the project or submit a request through the repository that follows the guidelines. Furthermore, make sure to install the dependencies that are required in order to work with any python programming. 
+
+To install these dependencies, run: 
+
+```
+pip install -r requirements.txt
+```
+which will use the dependencies from the [file in this repository](https://github.com/JuanMacias153/Spring2025/blob/main/requirements).
+
 
 # License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/JuanMacias153/Spring2025/blob/main/LICENSE.txt) file for details.
