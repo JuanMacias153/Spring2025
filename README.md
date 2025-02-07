@@ -41,5 +41,5 @@ git push origin feature-branch
 If you would like to contribute to this project, please open an issue with the project or submit a request through the repository that follows the guidelines.
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/JuanMacias153/Spring2025/blob/main/LICENSE.txt) file for details.
 
