@@ -1,0 +1,5 @@
+# Optional dependencies for automation and best practices 
+requests             # HTTP library for API calls
+numpy                # Numerical computing library
+pandas               # Data analysis library
+scikit-learn         # Machine learning library (latest version)
